@@ -51,7 +51,7 @@
 ---
 
 ## 📫 연락처
-- 📮 Email: [alfowko3258@gmail.com]
+- 📮 Email: [alfowko3258@naver.com]
 - 🗂️ Notion 포트폴리오: [링크 입력]
 
 ---
