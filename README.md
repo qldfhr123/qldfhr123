@@ -5,6 +5,10 @@
 
 
 ---
+## 📚현재 배우는중...!
+Vue.js 프론트 엔드 기술
+
+---
 
 ## 🛠️ 기술 스택
 
@@ -14,6 +18,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typeScript&logoColor=white)
 
 ### 🛢️ Database & Data
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
@@ -35,13 +40,14 @@
 
 ## ✨ 관심 분야
 - 사용자 중심의 커뮤니티 플랫폼 개발
-- AI 기반 추천 시스템 / 데이터 분석 / 데이터 시각화
+- 웹 서비스 구축
 - 사회적 가치를 높이는 소프트웨어 개발
+- AI 기반 추천 시스템 / 데이터 분석 / 데이터 시각화
 
 ---
 
 ## 📫 연락처
-- 📮 Email: [alfowko3258@naver.com]
+- 📮 Email: [qudfhr0615@bnosoft.co.kr]
 - 🗂️ Notion 포트폴리오: [링크 입력]
 
 ---
